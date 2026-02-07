@@ -93,7 +93,7 @@
     "@types/uuid": "^9.0.1",
     "add": "^2.0.6",
     "babel-jest": "^30.2.0",
-    "babel-loader": "^8.0.6",
+    "babel-loader": "^10.0.0",
     "codecov": "^3.8.3",
     "copy-webpack-plugin": "^6.1.1",
     "esbuild-loader": "^4.3.0",
